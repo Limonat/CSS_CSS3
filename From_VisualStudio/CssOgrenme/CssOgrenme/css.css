@@ -11,3 +11,18 @@ h3{
     background-color:#ff006e;
     color:black;
 }
+div{
+    /*background-color:blueviolet ;*/
+/* ren birimleri 4 şekilde yazılabilir bunlar; #aa00aa, #RRGGB3, #RGB, #09F, RGB (150,178,225)
+    RGBA (150,178,225, .4)
+    RGB (%75,%50,%80) GİBİİ yazılımları var
+*/
+    background-image:url(http://lorempixel.com/output/food-q-g-640-480-1.jpg)
+    color:darkorange;
+    padding: 20px;
+    border-radius: 15px;
+    width:450px;
+    height:400px;
+    /*fon-size: 16px; px göreceli uzunluk -em değeri -ex değeri % degeri*/
+    font-size:2pt;  /* in-cm-mm-pt-pc*/    
+}
